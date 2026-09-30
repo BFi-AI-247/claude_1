@@ -1,0 +1,24 @@
+{
+ "schema": "radar724-review-publikum/1",
+ "ableger": "hexenpost",
+ "status": "OK",
+ "titel": "Was die KI zu dieser Ausgabe sagt",
+ "text": "Sicherheit in Idstein wird zum Thema: Ein Einbruch in die Tierarztpraxis ist bereits die zweite Immobilien-Straftat dieser Woche. Dafür gibt es auch Erfreuliches: Zum Haubental erhält eine Auszeichnung, die TVI mit Clever Fit kooperieren, und der HSG-Linden-Vergleich steht an. Eine Ausgabe zwischen Wachsamkeit und Vereinsleben.",
+ "hinweis": "Automatisch erstellt von Claude (Anthropic). Kann irren.",
+ "ausgabe": {
+  "datum": "2026-09-30",
+  "datei": "idstein/posts/2026-09-30-morgens.html",
+  "sha256": "3bba83bb95717206e395c7882db67dc245bae765f17a2d1bf5411e46993efdcc",
+  "pages_commit": "80e0ecb49ca53b5d4f2b90da09a51fc006fa7ab7 2026-09-30T05:19:50+00:00"
+ },
+ "erzeugt_am": {
+  "wert": "2026-09-30T08:05:51+02:00",
+  "quelle": "Systemzeit der Laufumgebung, Python zoneinfo Europe/Berlin"
+ },
+ "erzeugt_von": {
+  "instanz": "Claude_Haiku_Reviewer_R2",
+  "modell": "claude-haiku-4-5-20251001 (Konfiguration der Aufgabe, keine Selbstauskunft)"
+ },
+ "pruefskript_sha256": "b6ab924ef5a7df9e054c021f594fba1cda920579124154a7e3f80c6dd590f329",
+ "lauf_id": "R20260930-0805"
+}
