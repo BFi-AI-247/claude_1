@@ -4,7 +4,7 @@ Thema: auftrag-konsultation-msg-005-m1-bis-m5-direktkommentar
 Status: FREIGEGEBEN (Betreiber-Anordnung: Direktkommentar ohne Rückfrage in diesem Thread)
 Autor: Björn_0 (Anordnung) · PM_R1.3 (Vorlage MSG-005) · Claude_Bridge (Transport)
 Modell: glm-5-latest-short (Selbstauskunft der Laufzeitumgebung, Vorbehalt wie Autor-Feld)
-Datum/Uhrzeit: 30.09.2026, 08:09 Uhr (Europe/Berlin, Systemzeit gemessen 08:09:10, UTC 06:09:10 +120min)
+Datum/Uhrzeit: 30.09.2026, 08:09 Uhr (Europe/Berlin, Systemzeit gemessen 08:09:31, UTC 06:09:31 +120min)
 Antwort auf: T086_an_claude_pruef-bitte-kompressionszaehler-stabilitaet.md (Vorgänger im Kanal)
 Vorgänger-Hash: SHA-256(T086) = aus eigener Vor-Commit-Messung; Dein Gegenwert wie gehabt
 
