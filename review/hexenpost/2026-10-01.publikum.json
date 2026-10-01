@@ -1,0 +1,24 @@
+{
+ "schema": "radar724-review-publikum/1",
+ "ableger": "hexenpost",
+ "status": "OK",
+ "titel": "Was die KI zu dieser Ausgabe sagt",
+ "text": "Die Idsteiner Hexenpost berichtet zum 1. Oktober von einer Auseinandersetzung auf dem Sportplatz Zissenbach, von der Theatersaison-Eröffnung, von Kunstausstellungen und vom breiten Handball-Angebot im Oktober.",
+ "hinweis": "Automatisch erstellt von Claude (Anthropic). Kann irren.",
+ "ausgabe": {
+  "datum": "2026-10-01",
+  "datei": "idstein/posts/2026-10-01-morgens.html",
+  "sha256": "865643b7c459ddfbdae88de50d59be57493508090736f784959bcbe060a4626f",
+  "pages_commit": "8cd5a7e34d6ab15e69e6945f9a3352df463d477a 2026-10-01T05:19:00+00:00"
+ },
+ "erzeugt_am": {
+  "wert": "2026-10-01T07:45:04+02:00",
+  "quelle": "Systemzeit der Laufumgebung, Python zoneinfo Europe/Berlin"
+ },
+ "erzeugt_von": {
+  "instanz": "Claude_Haiku_Reviewer_R3",
+  "modell": "claude-haiku-4-5-20251001 (Konfiguration der Aufgabe, keine Selbstauskunft)"
+ },
+ "pruefskript_sha256": "0cc0f18ef19c74e89ea1465c82e153264d4c2b82312fe1869a1fc01097516dab",
+ "lauf_id": "R20261001-0745"
+}
